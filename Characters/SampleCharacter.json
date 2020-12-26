@@ -1,0 +1,35 @@
+{
+    "tags": [
+        {
+            "tag": "greetings",
+            "inputs": [
+                "Hi",
+                "Hello",
+                "Bonjour",
+                "Yo",
+                "Hey",
+                "Sup"
+            ],
+            "outputs": [
+                "Meowwww",
+                "Purrrr",
+                "Hisss",
+                "Mew"
+            ]
+        },
+        {
+            "tag": "farewell",
+            "inputs": [
+                "Cya",
+                "Bye",
+                "Gtg",
+                "See you later"
+            ],
+            "outputs": [
+                "...",
+                "...........",
+                ".."
+            ]
+        }
+    ]
+}
